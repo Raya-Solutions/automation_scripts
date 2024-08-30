@@ -3,7 +3,7 @@ from frappe.utils import now, add_days
 import random
 
 def insert_employee_checkin():
-    # List of all employee check-ins to be inserted
+    # List of all employee check-ins to be inserted TEST
     employee_checkin_data = [
         # Employee '36174'
         {'employee': '36174', 'time': '2024-06-09 07:16:24', 'log_type': 'IN'},
