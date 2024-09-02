@@ -9,4 +9,4 @@ DELETE FROM `tabAttendance`
 WHERE `shift` = 'Row3RanzTest';
 
 
-DELETE FROM `tabAttendance` WHERE `shift` = 'FOR TESTING OF OT';
+DELETE FROM `tabAttendance` WHERE `shift` = 'TESTING NIGHT DIFF';
